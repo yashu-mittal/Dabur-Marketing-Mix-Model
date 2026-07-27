@@ -6,7 +6,6 @@
 
 A lite Marketing Mix Model (MMM) + Gen-Z go-to-market strategy for Dabur's Immunity & Wellness range (Chyawanprash, Honey, Glucose-D, wellness gummies). It quantifies channel-level marketing ROI across four consolidated channels and uses that to inform a digital-first repositioning strategy for a legacy Ayurvedic category, aimed at 18–27 year olds.
 
-Built as a combination of two prior projects: a D2C FMCG internship (Hesthetic Life Pvt. Ltd.) and a Gen-Z consumer research project for Hindustan Unilever's Lakmé L.I.M.E. initiative.
 
 ## Key findings
 
