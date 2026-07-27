@@ -43,12 +43,10 @@ Everything else — channel-level splits, monthly spend/sales figures, adstock d
 
 ```
 ├── Dabur-Marketing-Mix-Model.pdf     # Full written report (exec summary, methodology, results, GTM plan, appendices)
-├── Dabur_GenZ_MMM_Model.xlsx         # Full model, live and editable
-├── Dabur_GenZ_MMM_Dashboard.pbix     # Power BI dashboard (built per the 'PowerBI Data Prep' tab in the workbook)
+├── Dabur-GenZ-MMM-Model.xlsx         # Full model, live and editable
+├── Dabur-GenZ-MMM-Dashboard.pbix     # Power BI dashboard (built per the 'PowerBI Data Prep' tab in the workbook)
 └── README.md
 ```
-
-> Rename `Dabur_GenZ_MMM_Dashboard.pbix` above to match your actual filename before uploading.
 
 ### Workbook tabs
 
@@ -65,7 +63,7 @@ Everything else — channel-level splits, monthly spend/sales figures, adstock d
 
 ## Power BI dashboard
 
-`Dabur_GenZ_MMM_Dashboard.pbix` visualizes the model output — channel contribution, ROI, and the budget reallocation what-if — built by importing the tables listed in the workbook's `PowerBI Data Prep` tab (Monthly Data, the Channel Contribution & ROI table, and the Budget Reallocation table). Open it in [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop) (free) to explore or edit the visuals. If you update the source workbook, refresh the data connections in Power BI to pull the latest numbers through.
+`Dabur_GenZ_MMM_Dashboard.pbix` visualizes the model output — channel contribution, ROI, and the budget reallocation what-if — built by importing the tables listed in the workbook's `PowerBI Data Prep` tab (Monthly Data, the Channel Contribution & ROI table, and the Budget Reallocation table). Open it in Power BI Desktopto explore or edit the visuals. If you update the source workbook, refresh the data connections in Power BI to pull the latest numbers through.
 
 ## Limitations
 
