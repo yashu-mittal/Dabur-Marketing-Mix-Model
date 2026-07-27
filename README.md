@@ -63,7 +63,7 @@ Everything else — channel-level splits, monthly spend/sales figures, adstock d
 
 ## Power BI dashboard
 
-`Dabur_GenZ_MMM_Dashboard.pbix` visualizes the model output — channel contribution, ROI, and the budget reallocation what-if — built by importing the tables listed in the workbook's `PowerBI Data Prep` tab (Monthly Data, the Channel Contribution & ROI table, and the Budget Reallocation table). Open it in Power BI Desktopto explore or edit the visuals. If you update the source workbook, refresh the data connections in Power BI to pull the latest numbers through.
+`Dabur-GenZ-MMM-Dashboard.pbix` visualizes the model output — channel contribution, ROI, and the budget reallocation what-if — built by importing the tables listed in the workbook's `PowerBI Data Prep` tab (Monthly Data, the Channel Contribution & ROI table, and the Budget Reallocation table). Open it in Power BI Desktopto explore or edit the visuals. If you update the source workbook, refresh the data connections in Power BI to pull the latest numbers through.
 
 ## Limitations
 
@@ -75,7 +75,7 @@ Everything else — channel-level splits, monthly spend/sales figures, adstock d
 
 ## How to use
 
-1. Open `Dabur_GenZ_MMM_Model.xlsx` and start with the `Read Me` tab.
+1. Open `Dabur-GenZ-MMM-Model.xlsx` and start with the `Read Me` tab.
 2. Review `Assumptions` to see exactly what's real vs. modeled.
 3. Edit the yellow cells in `Budget Reallocation` to test different spend shifts.
 4. If replicating this methodology for another brand, use `GTM Research Plan` as a template and swap in real survey data.
